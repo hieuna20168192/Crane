@@ -1,7 +1,8 @@
-package com.sunasterisk.crane
+package com.sunasterisk.crane.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.sunasterisk.crane.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
